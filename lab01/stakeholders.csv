@@ -1,0 +1,9 @@
+id,name_or_group,role,category,interest,influence,interest_level,expectation
+S01,Head of the IT department,Sponsor,sponsor,A reusable quiz platform that reduces instructor marking workload,H,H,Successful MVP demo in week 7 and pilot with 50 students in week 14 within the 200 USD budget.
+S02,Supervising lecturer,Project manager (supervising lecturer),pm,On-time project delivery according to academic quality standards,H,H,Weekly status reporting and clear milestone progression from the student development team.
+S03,Student development team (4),Developers and testers,team,Gaining practical software project management and engineering experience,M,H,Clear requirement baselines and actionable feedback during weekly project reviews.
+S04,Pilot students (50),End users,user,An engaging and responsive live quiz interface during class sessions,L,M,A platform that functions reliably on mobile web browsers without connection drops.
+S05,Course instructors,End users,user,Fast quiz creation tools and simple automated grade export functions,M,H,An intuitive quiz creation workflow with exportable results in CSV and PDF formats.
+S06,IT operations (VPS admin),System administrator,operations,A stable, maintainable deployment that does not disrupt hosting infrastructure,M,M,A complete production deployment checklist and docker-compose.prod.yml file two weeks before launch.
+S07,Campus network administrator,Infrastructure engineer,external,Network traffic compliance and proxy stability across campus Wi-Fi,M,L,WebSocket traffic configuration that adheres to campus security and proxy guidelines.
+S08,Data protection officer,Governance authority,governance,Compliance with student privacy guidelines and secure data retention,H,L,A one-page data storage and privacy handling summary prior to running the student pilot.
